@@ -1,5 +1,5 @@
 # PREVAC contacts page
-Page with company contacts for PREVAC company made during school practices
+Page with contacts for PREVAC company made during school practices
 
 # How to run
 - MySQL
